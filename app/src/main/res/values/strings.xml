@@ -1,0 +1,12 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+
+    <string name="app_name">Practica_1</string>
+    <string name="hello_world">Hello world!</string>
+    <string name="action_settings">Settings</string>
+    <string name="title_activity_one">OneActivity</string>
+    <string name="title_activity_two">TwoActivity</string>
+    <string name="title_activity_three">ThreeActivity</string>
+    <string name="title_activity_four">FourActivity</string>
+
+</resources>
